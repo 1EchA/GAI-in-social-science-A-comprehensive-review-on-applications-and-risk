@@ -18,3 +18,4 @@ The paper advocates for viewing GAI as a tool to enhance human capabilities rath
 ## Future Directions:
 We call for continued research into GAI applications and risks, emphasizing the importance of value alignment between AI systems and human ethical standards. This repository serves as a resource for researchers, practitioners, and policymakers navigating the rapidly evolving landscape of AI in social sciences.
 
+![1](https://github.com/user-attachments/assets/955aba7d-b6dc-4a20-88b1-9a68a9bb5751)
