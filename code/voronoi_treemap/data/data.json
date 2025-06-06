@@ -1,0 +1,271 @@
+{
+  "name": "groups",
+    "children": [
+        {
+            "name": "GROUP-1",
+            "color": "#AED2E2",
+            "children": [
+                {
+                    "name": "Computer Science",
+                    "weight": 5719,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-2",
+            "color": "#FFDC8E",
+            "children": [
+                {
+                    "name": "Mathematical Computational Biology",
+                    "weight": 4229,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-3",
+            "color": "#F0A19A",
+            "children": [
+                {
+                    "name": "Social Sciences",
+                    "weight": 2600,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-4",
+            "color": "#D5D9E5",
+            "children": [
+                {
+                    "name": "Engineering",
+                    "weight": 2227,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-5",
+            "color": "#D6E0C8",
+            "children": [
+                {
+                    "name": "Mathematics",
+                    "weight": 2144,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-6",
+            "color": "#FFF0BC",
+            "children": [
+                {
+                    "name": "Health Care Sciences Services",
+                    "weight": 1392,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-7",
+            "color": "#C7B88D",
+            "children": [
+                {
+                    "name": "Communication",
+                    "weight": 1288,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-8",
+            "color": "#EEC186",
+            "children": [
+                {
+                    "name": "Science Technology",
+                    "weight": 1185,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-9",
+            "color": "#B2DBB9",
+            "children": [
+                {
+                    "name": "Business Economics",
+                    "weight": 947,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-10",
+            "color": "#CCCCCC",
+            "children": [
+                {
+                    "name": "Automation Control Systems",
+                    "weight": 918,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-11",
+            "color": "#F39DA0",
+            "children": [
+                {
+                    "name": "Psychology",
+                    "weight": 848,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-12",
+            "color": "#CAC8EF",
+            "children": [
+                {
+                    "name": "Robotics",
+                    "weight": 835,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-13",
+            "color": "#F0CFEA",
+            "children": [
+                {
+                    "name": "Behavioral Sciences",
+                    "weight": 828,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-14",
+            "color": "#ADDEAD",
+            "children": [
+                {
+                    "name": "Social Issues",
+                    "weight": 825,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-15",
+            "color": "#F2F2F2",
+            "children": [
+                {
+                    "name": "Telecommunications",
+                    "weight": 805,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-16",
+            "color": "#FFFEDF",
+            "children": [
+                {
+                    "name": "Environmental Sciences Ecology",
+                    "weight": 799,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-17",
+            "color": "#F08080",
+            "children": [
+                {
+                    "name": "Medical Informatics",
+                    "weight": 792,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-18",
+            "color": "#FA8072",
+            "children": [
+                {
+                    "name": "Information and Library Science",
+                    "weight": 785,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-19",
+            "color": "#E9967A",
+            "children": [
+                {
+                    "name": "Medical Imaging",
+                    "weight": 543,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-20",
+            "color": "#FFA07A",
+            "children": [
+                {
+                    "name": "General Internal Medicine",
+                    "weight": 533,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-21",
+            "color": "#E1F3FA",
+            "children": [
+                {
+                    "name": "Educational Research",
+                    "weight": 487,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-22",
+            "color": "#B9DBF4",
+            "children": [
+                {
+                    "name": "Neurosciences",
+                    "weight": 482,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-24",
+            "color": "#fac5c6",
+            "children": [
+                {
+                    "name": "Geography",
+                    "weight": 344,
+                    "code": "--"
+                }
+            ]
+        },
+        {
+            "name": "GROUP-25",
+            "color": "#FFECC2",
+            "children": [
+                {
+                    "name": "PEOH",
+                    "weight": 330,
+                    "code": "--"
+                }
+            ]
+        }
+    ]
+}
+
+

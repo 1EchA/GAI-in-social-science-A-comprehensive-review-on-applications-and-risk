@@ -1,0 +1,23 @@
+text {
+    font-family: 'Times New Roman', monospace;
+    font-weight: 650;
+}
+
+.label {
+    text-anchor: middle;
+    fill: black;
+    font-size: 9px;
+}
+
+.label > .name {
+    dominant-baseline: text-after-edge;
+}
+
+.label > .value {
+    dominant-baseline: text-before-edge;
+}
+
+.cells {
+    stroke: #fff;
+    stroke-width: 2px;
+}
